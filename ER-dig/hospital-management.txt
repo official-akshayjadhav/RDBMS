@@ -1,3 +1,4 @@
+
 consider a hospital:
 -------------------
 Patients are treated in a single ward by the doctors assigned to them. usually each patient will be assigned a single doctor,
