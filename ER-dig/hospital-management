@@ -1,0 +1,7 @@
+consider a hospital:
+-------------------
+Patients are treated in a single ward by the doctors assigned to them. usually each patient will be assigned a single doctor,
+but in rare cass they will have two.
+Healthcare assistants also attend to the patients, a number of these are associated with each ward.
+
+identify entities, relationships, attributes.
